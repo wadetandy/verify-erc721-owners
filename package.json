@@ -1,0 +1,12 @@
+{
+  "name": "verify-erc721-owners",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wade Tandy <wade.tandy@hey.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ethers": "^5.4.2",
+    "lodash": "^4.17.21"
+  }
+}
